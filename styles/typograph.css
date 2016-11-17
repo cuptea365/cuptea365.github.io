@@ -1,0 +1,31 @@
+body {
+    font-size: small;
+    font-family: "Monospace", "Arial", sans-serif;
+}
+
+header {
+    font-size: 5em;
+    font-family: "Times New Roman", sans-serif;
+    font-weight: bold;
+}
+
+article {
+    font-size: 1.2em;
+    font-family: "Verdana", "Arial", sans-serif;
+}
+
+.briefBlog header {
+    font-size: 2em;
+    font-family: "Lucida Grande", sans-serif;
+}
+
+.blogContent {
+    font-size: 1.2em;
+    font-family: "Times New Roman", sans-serif;
+}
+
+.dateTime {
+    font-size: 1em;
+    font-family: "Consoles", serif;
+}
+

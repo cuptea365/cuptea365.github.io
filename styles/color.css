@@ -1,0 +1,30 @@
+body {
+    color: #45c;
+    background-color: #342829;
+}
+
+header {
+    color: #88293f;
+    background-color: #348938;
+    border-color: #288944;
+    border-style: solid;
+    border-width: 5px;
+}
+
+aside {
+    color: #924438;
+    background-color: #ec4;
+}
+
+#main {
+    background-color: white;
+}
+
+.briefBlog {
+    background-color: lightgoldenrodyellow;
+    color: balck;
+    border-style: solid;
+    border-color: yellow;
+}
+
+

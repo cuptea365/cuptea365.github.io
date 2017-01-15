@@ -479,3 +479,5 @@
 [1128/214143:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: An attempt was made to access an exiting process.  (0xc000010a)
 [0115/113325:ERROR:tcp_listen_socket.cc(76)] Could not bind socket to 127.0.0.1:6004
 [0115/113325:ERROR:node_debugger.cc(86)] Cannot start debugger server
+[0115/131424:ERROR:tcp_listen_socket.cc(76)] Could not bind socket to 127.0.0.1:6004
+[0115/131424:ERROR:node_debugger.cc(86)] Cannot start debugger server
